@@ -3,5 +3,6 @@ class Belajar_git{
         System.out.println("Mari Belajar GIt");
         System.out.println("Belajar Git itu Mudah");
         System.out.println("tapi Ribet");
+        System.out.println("Tapi gampang");
     }
 }
